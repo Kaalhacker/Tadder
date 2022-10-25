@@ -7,8 +7,8 @@ except:
     system("pip install platform")
 #____________________________________________________________________________________
 
-apiId = 123456 # The API ID of your Telegram account
-apiHash = "pedaret123pedaret321" # The API Hash of your Telegram account
+apiId = 17651177 # The API ID of your Telegram account
+apiHash = "7d089f4a94b0f470ce2233fc58c35799" # The API Hash of your Telegram account
 
 #____________________________________________________________________________________
 blu = "\033[96m"
